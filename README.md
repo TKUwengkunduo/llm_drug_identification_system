@@ -45,4 +45,4 @@ ros2 run dis_service test ../test_data/S__170033158_0.jpg ../drug_database/no000
 ```
 
 #### You will see information similar to the following
-![Output example](<image\Output example.png>)
+![Output example](<image/Output example.png>)
